@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- Im software science engineer graduated from Tecnologico de Costa Rica
+
+- My principals technologies are:
+* React, JavaScript, Jquery, Vanilla, CSS, HTML
+* C#, .NET Core, .NET Framework, SQL Server, EF Core
 <!--
 **JosephMen/JosephMen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
